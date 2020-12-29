@@ -10,7 +10,7 @@ const About = () => {
             <br/>
             <Row>
                 <Col id='colOne' xs='12' sm='12' md='5' lg='5'>
-                <p id='aboutText'>After a decade of working for the same company, in the warehouse industry, at levels varying from entry level to middle management I decided it was time for a change.  I left what I knew and embarked on a new journey in to the wide world of coding. I am a graduate of the 12-week Immersive Web Development program at Eleven Fifty Academy and recently completed the 12-week Software Development program. While completing these programs I have logged over 1000 hours of training and coding time. Outside of coding I am an avid football and race fan, and enjoy traveling with my family.</p>
+                <p id='aboutText'>After a decade of working for the same company, in the warehouse industry, at levels varying from entry level to an upper management role I decided it was time for a change.  I left what I knew and embarked on a new journey in to the wide world of coding. I am a graduate of both the 12-week Immersive Web Development and 12-week Software Development program at Eleven Fifty Academy. While completing these programs I have logged over 1000 hours of training and coding time. Outside of coding I am an avid football and race fan, and enjoy traveling with my family.</p>
                 </Col>
 
                 <Col id='colTwo' xs='6' sm='6' md='3' lg='3'>
