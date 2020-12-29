@@ -11,7 +11,7 @@ const Contact = () => {
                 <h1 id="contactTitle">Contact Me</h1>
                 <Row>
                     <Col>
-                        <Form className="contactMe" action="https://formspree.io/kristopherprater@gmail.com" method="POST">
+                        <Form className="contactMe" action="https://formspree.io/f/xdoppyej" method="POST">
                             <div class="control-group">
                                 <div class="form-group">
                                     <Label>Name</Label>
@@ -49,16 +49,16 @@ const Contact = () => {
             <br/>
             <br/>
                 <Container id="logoContainer">
-                    <Row className="justify-content-md-center">
-                        <Col md="1">
+                    <Row className="socialMedia justify-content-md-center">
+                        <Col xs='2' md="1">
                             <div>
                                 <a href="https://www.linkedin.com/in/kristopher-c-prater/">
-                                <img src={require('../../Assets/linkedinLogo.png')} className="contactLogo"/>
+                                <img src={require('../../Assets/linkedin.png')} className="contactLogo"/>
                                 </a>
                             </div>
                         </Col>
 
-                        <Col md="1">
+                        <Col xs ='2' md="1">
                             <div>
                                 <a href="https://github.com/Kcprater">
                                 <img src={require('../../Assets/githubLogo.jpg')} className="contactLogo" />
@@ -66,7 +66,7 @@ const Contact = () => {
                             </div>
                         </Col>
 
-                        <Col md="1">
+                        <Col xs='2' md="1">
                             <div>
                                 <a href="https://codepen.io/kcprater">
                                 <img src={require('../../Assets/codepenLogo.jpg')} className="contactLogo"/>
@@ -76,9 +76,7 @@ const Contact = () => {
                     </Row>
                 </Container>
                 <br/>
-        </div>
-        
-    )
+        </div>  
+    );
 }
-
 export default Contact;

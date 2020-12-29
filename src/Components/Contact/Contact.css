@@ -1,20 +1,33 @@
-.contactLogo{
-    height: 3em;
-}
-
 #email{
-    border: 2px solid black;
+  border: 2px solid black;
 }
 
 #name{
-    border: 2px solid black;
+  border: 2px solid black;
 }
 
 #message{
-    border: 2px solid black;
+  border: 2px solid black;
 }
 
 #contactTitle{
-    text-align: center;
-    padding-top: 2em;
+  text-align: center;
+  padding-top: 2em;
+}
+
+@media screen and (max-width: 600px) {
+  .contactLogo {
+    height: 2rem;
+  }
+}
+
+@media screen and (min-width: 601px) {
+  .contactLogo {
+    height: 3.5rem;
+  }
+}
+
+.socialMedia{
+  display: flex;
+  justify-content: center;
 }

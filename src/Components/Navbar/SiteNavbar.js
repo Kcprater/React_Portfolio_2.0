@@ -26,6 +26,6 @@ const SiteNavbar = () => {
                 </Collapse>
             </Navbar>
         </div>
-    )
+    );
 }
 export default SiteNavbar;

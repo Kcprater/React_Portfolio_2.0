@@ -1,12 +1,11 @@
 .img-fluid{
-    border-radius: 0 50px 0 50px;
+  border-radius: 0 50px 0 50px;
 }
 
 #about{
-
-    text-align: center;
-    padding-top: 4em;
-    margin-top: -1em;
+  text-align: center;
+  padding-top: 4em;
+  margin-top: -1em;
 }
 
 #aboutTitle{
@@ -14,69 +13,80 @@
 }
 
 @media screen and (max-width: 600px) {
-    #aboutText {
-      font-size: 1rem;
-    }
+  #aboutText {
+    font-size: 1rem;
   }
+}
 
 @media screen and (min-width: 601px) {
-    #aboutText {
-      font-size: 1.5rem;
-    }
+  #aboutText {
+    font-size: 1.5rem;
   }
+}
 
-@media screen and (min-width: 1200px) {
-    #aboutText {
-      font-size: 2rem;
-    }
+@media screen and (min-width: 1500px) {
+  #aboutText {
+    font-size: 2rem;
   }
+}
   
 @media screen and (min-width: 601px) {
-    #aboutTitle {
-      font-size: 3rem;
-    }
+  #aboutTitle {
+    font-size: 3rem;
   }
+}
   
 @media screen and (max-width: 500px) {
-    #aboutTitle {
-      font-size: 2rem;
-    }
+  #aboutTitle {
+    font-size: 2rem;
   }
+}
   
 @media screen and (max-width: 600px) {
-    li {
-        font-size: 1rem;
-      }
-    }
-@media screen and (min-width: 601px) {
-    li {
-      font-size: 1.5rem;
-    }
+  li {
+    font-size: 1rem;
   }
-@media screen and (min-width: 1200px) {
-    li {
-      font-size: 2rem;
-    }
-  }
-  
-@media screen and (min-width: 601px) {
-    #resume {
-      font-size: 1.5rem;
-    }
-  }
-  
-@media screen and (max-width: 600px) {
-    #resume {
-      font-size: 1rem;
-      /* text-align: center; */
-    }
-  }
+}
 
-@media screen and (max-width: 600px) {
-    .img-fluid {
-        margin-left: 50%;
-        border-radius: 0 50px 0 50px;
-        padding-top: 1rem;
-        padding-bottom: 1.5rem;
-    }
+@media screen and (min-width: 601px) {
+  li {
+    font-size: 1.5rem;
   }
+}
+
+@media screen and (min-width: 1500px) {
+  li {
+    font-size: 2rem;
+  }
+}
+  
+@media screen and (min-width: 601px) {
+  #resume {
+    font-size: 1.5rem;
+  }
+}
+  
+@media screen and (max-width: 600px) {
+  #resume {
+    font-size: 1rem;
+  }
+}
+
+@media screen and (min-width: 801px) {
+  .img-fluid {
+      float: center;
+      border-radius: 0 50px 0 50px;
+      padding-top: 1rem;
+      padding-bottom: 1.5rem;
+  }
+}
+
+@media screen and (max-width: 800px) {
+  .img-fluid {
+      margin-left: 50%;
+      float: center;
+      border-radius: 0 50px 0 50px;
+      padding-top: 1rem;
+      padding-bottom: 1.5rem;
+  }
+}
