@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/React_Portfolio_2.0/static/css/main.f487c217.chunk.css",
+    "main.js": "/React_Portfolio_2.0/static/js/main.7b2bde1d.chunk.js",
+    "main.js.map": "/React_Portfolio_2.0/static/js/main.7b2bde1d.chunk.js.map",
+    "runtime-main.js": "/React_Portfolio_2.0/static/js/runtime-main.a15e0e6c.js",
+    "runtime-main.js.map": "/React_Portfolio_2.0/static/js/runtime-main.a15e0e6c.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/React_Portfolio_2.0/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.9c4b41ca.chunk.js": "/React_Portfolio_2.0/static/js/2.9c4b41ca.chunk.js",
+    "static/js/2.9c4b41ca.chunk.js.map": "/React_Portfolio_2.0/static/js/2.9c4b41ca.chunk.js.map",
+    "index.html": "/React_Portfolio_2.0/index.html",
+    "precache-manifest.969774d06221e3e0071eb298c94bd449.js": "/React_Portfolio_2.0/precache-manifest.969774d06221e3e0071eb298c94bd449.js",
+    "service-worker.js": "/React_Portfolio_2.0/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/React_Portfolio_2.0/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.f487c217.chunk.css.map": "/React_Portfolio_2.0/static/css/main.f487c217.chunk.css.map",
+    "static/js/2.9c4b41ca.chunk.js.LICENSE.txt": "/React_Portfolio_2.0/static/js/2.9c4b41ca.chunk.js.LICENSE.txt",
+    "static/media/HelpingHand.png": "/React_Portfolio_2.0/static/media/HelpingHand.d3792490.png",
+    "static/media/KrisPrater.jpg": "/React_Portfolio_2.0/static/media/KrisPrater.863645a8.jpg",
+    "static/media/KristopherPrater.pdf": "/React_Portfolio_2.0/static/media/KristopherPrater.ee43abb8.pdf",
+    "static/media/Home.css": "/React_Portfolio_2.0/static/media/background.d44113bc.jpg",
+    "static/media/cssMario.png": "/React_Portfolio_2.0/static/media/cssMario.f4ac3c58.png",
+    "static/media/cssMickey.png": "/React_Portfolio_2.0/static/media/cssMickey.3194d4a6.png",
+    "static/media/efaStatic.png": "/React_Portfolio_2.0/static/media/efaStatic.ca383a3a.png",
+    "static/media/hpAPI.png": "/React_Portfolio_2.0/static/media/hpAPI.4bacc810.png",
+    "static/media/huluStatic.png": "/React_Portfolio_2.0/static/media/huluStatic.af227950.png",
+    "static/media/redBadgeFinal.png": "/React_Portfolio_2.0/static/media/redBadgeFinal.11c79497.png",
+    "static/media/universalAPI.png": "/React_Portfolio_2.0/static/media/universalAPI.db39ec65.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a15e0e6c.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.9c4b41ca.chunk.js",
+    "static/css/main.f487c217.chunk.css",
+    "static/js/main.7b2bde1d.chunk.js"
+  ]
+}
