@@ -1,0 +1,12 @@
+#navLogo {
+    color: black;
+    font-weight: bold;
+}
+
+#link {
+    color: black;
+    font-weight: bold;
+    font-size: x-large; /*check responsiveness (rem)*/
+    justify-content: right;
+}
+
