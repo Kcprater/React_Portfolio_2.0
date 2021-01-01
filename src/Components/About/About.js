@@ -1,7 +1,7 @@
 import React from 'react';
 import {Row, Col} from 'reactstrap'
 import './About.css';
-import Resume from '../../Assets/KristopherPrater.pdf'
+import Resume from '../../Assets/KP_Resume.pdf'
 
 const About = () => {
     return (
@@ -27,7 +27,7 @@ const About = () => {
                             <li>Working knowledge of C#, ASP.NET, MVC 5 </li>
                     </ul>
                 <div> 
-                        <a id='resume' href={Resume} download="KristopherPrater.pdf">Click to download my resume!</a>
+                        <a id='resume' href={Resume} download="KP_Resume.pdf">Click to download my resume!</a>
                 </div>
                 </Col>
             </Row>
