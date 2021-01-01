@@ -17,7 +17,7 @@ const Projects = () => {
                     </a>
                     <CardBody>
                         <CardTitle>CSS/HTML Mickey Mouse</CardTitle>
-                        <CardText>I created this "creature" while attending Eleven Fifty Academy's Web Development Bootcamp. This project reminds me of the first time I experienced frustration AND joy while coding!</CardText>
+                        <CardText>This was my first time coding anything on my own. I created this "creature" while attending Eleven Fifty Academy's Web Development Bootcamp. This project reminds me of the first time I experienced both frustration AND joy while coding!</CardText>
                     </CardBody>
                 </Card>
             </Col>
@@ -30,7 +30,7 @@ const Projects = () => {
                     </a>
                     <CardBody>
                         <CardTitle>CSS/HTML 8-Bit Super Mario</CardTitle>
-                        <CardText>This is my second creature created using only CSS/HTML. It was also created while attending the Software Development Bootcamp at Eleven Fifty Academy.</CardText>
+                        <CardText>This is my second creature created using only CSS/HTML. It was created while attending the Software Development Bootcamp at Eleven Fifty Academy.</CardText>
                     </CardBody>
                 </Card>
             </Col>
@@ -43,7 +43,7 @@ const Projects = () => {
                     </a>
                     <CardBody>
                         <CardTitle>1st Static Layout</CardTitle>
-                        <CardText>A static version of Hulu.com. The layout was created using Flexbox and no other outside libraries.</CardText>
+                        <CardText>A static version of Hulu.com. After choosing a website to recreate I had to look at the Hulu Homepage and do my best to recreate it.</CardText>
                     </CardBody>
                 </Card>
             </Col>
@@ -72,7 +72,7 @@ const Projects = () => {
                     </a>
                     <CardBody>
                         <CardTitle>Working with an API</CardTitle>
-                        <CardText>This project was built to reach out to the Harry Potter API(potterapi.com) and decide what House at Hogwarts School of Magic the person should be assigned to after entering their name. Once a House is picked for the user, information about the house and other members is displayed. This app was built using Javascript, HTML, and CSS.</CardText>
+                        <CardText>This project was built to reach out to the Harry Potter API(potterapi.com) and decide what House at Hogwarts School of Magic the person should be assigned to after entering their name. Once a House is picked for the user, information about the house and other members is displayed. This app was built using Javascript, HTML, and CSS. PotterAPI.com is currently under construction, causing portions of this project to not function properly.</CardText>
                     </CardBody>
                 </Card>
             </Col>
@@ -98,7 +98,7 @@ const Projects = () => {
                     </a>
                     <CardBody>
                         <CardTitle>Pawcious Memories</CardTitle>
-                        <CardText>React Application and Node server built while working in a team (remotely). This project utilizes PostgreSQL, Express, Node and React, as well as using a couple libraries to help with design and layout. This application was built to allow the user to add information about their pets as well as add photos and memories.</CardText>
+                        <CardText>React Application and Node server built while working in a team (remotely). This project utilizes PostgreSQL, Express, Node and React, as well as using a couple libraries to help with design and layout. This application was built to allow the user to add information about their pets as well as add photos and track important memories.</CardText>
                     </CardBody>
                 </Card>
             </Col>
